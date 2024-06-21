@@ -1,0 +1,19 @@
+{
+  "name": "apex",
+  "version": "0.0.1",
+  "description": "Sales wrapup and onboarding system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwogrady/apex.git"
+  },
+  "author": "jwogrady",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jwogrady/apex/issues"
+  },
+  "homepage": "https://github.com/jwogrady/apex#readme"
+}
